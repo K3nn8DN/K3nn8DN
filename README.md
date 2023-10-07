@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **KendraJanel04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,4 +18,6 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=radical)
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=cobalt" />
+<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=cobalt" alt="k3nn8dn" /></p>
+
