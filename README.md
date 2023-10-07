@@ -1,7 +1,8 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
 <h1 align="center">Hi 👋, I'm Kae Strange</h1>
 <h3 align="center">A First Year Northeastern University student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
+
 
 - 🌱 I’m currently learning **Everything**
 
