@@ -3,7 +3,6 @@
 <h3 align="center">A First Year Northeastern University student Also Known by kendra Mitchell</h3>
 
 
-
 - 🌱 I’m currently learning **Everything**
 
 - 👯 I’m looking to collaborate on **Projects to grow my skills**
