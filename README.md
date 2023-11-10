@@ -1,8 +1,13 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
-<h1 align="center">Hi 👋, I'm Kae Strange</h1>
-<h3 align="left">A First Year Northeastern University student Graduating in 2027 Majoring in CyberSecurity Also Known by kendra Mitchell</h3>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
+<h1 align="center" >Hi 👋, I'm Kae Strange</h1>
+<h3 align="center">A First Year student Majoring in CyberSecurity</h3>
 
-
+<h3 align="left" >Languages and Tools:</h3>
+<p align="left"> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> 
 
 - 🌱 I’m currently learning **Everything**
 
@@ -10,15 +15,15 @@
 
 - 📫 How to reach me **KendraJanel04@gmail.com**
 
-<h3 align="left" >Languages and Tools:</h3>
-<p align="left"> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
-<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" /></p>
+
+
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
+<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />   
+</p>
+&nbsp;
+
 
 
