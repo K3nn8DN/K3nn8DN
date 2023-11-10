@@ -16,12 +16,9 @@
 - 📫 How to reach me **KendraJanel04@gmail.com**
 
 
-
-
-
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
-<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />   
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
+<img align="right" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />   
 </p>
 &nbsp;
 
