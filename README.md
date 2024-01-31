@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Projects to grow my skills**
 
-- 📫 How to reach me **KendraJanel04@gmail.com**
-
 
 <p > 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
