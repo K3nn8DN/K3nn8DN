@@ -15,8 +15,9 @@
 
 
 <p > 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />   
+<img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />
+
     
 </p>
 &nbsp;
