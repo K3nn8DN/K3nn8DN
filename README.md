@@ -17,6 +17,11 @@
 <p > 
 <img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" />
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />
+  
+![Top Language](https://img.shields.io/github/languages/top/K3nn8DN/LearningUnity2D)
+![Language Count](https://img.shields.io/github/languages/count/K3nn8DN/LearningUnity2D)
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&theme=tokyonight" alt="k3nn8dn" />
+
 
     
 </p>
