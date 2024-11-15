@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/c51f70e6-e6d4-447b-abf5-eb0faac30370" align="right" width="25%">
 
 <p>&nbsp;</p>
-<br>
+
 <p>&nbsp;</p>
 
 <h3>
@@ -22,7 +22,8 @@
 - 💡 Interested in, app and game development <br><br>
 - 👯 looking to collaborate on Projects to grow my skills<br><br>
 </h3>
-  
+
+<br>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
