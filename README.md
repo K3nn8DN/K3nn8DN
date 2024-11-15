@@ -27,15 +27,15 @@
 <p>&nbsp;</p>
 
 <p> 
-  <picture>
+  <picture alighn="left" width="40%">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true&theme=tokyonight" >
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true" >
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true">
 </picture>
-<picture>
+<picture align="right" width="40%">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN&theme=tokyonight" >
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN" >
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-streak-stats.herokuapp.com/?user=K3nn8DN">
 </picture>
 
   &nbsp;
