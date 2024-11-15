@@ -10,9 +10,9 @@
   <a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p> 
 
-- 🌱 I’m currently learning **Everything**
-
-- 👯 I’m looking to collaborate on **Projects to grow my skills**
+- 🌱 currently learning **Java and C**
+- 💡 Interested in, **app and game development**
+- 👯 looking to collaborate on **Projects to grow my skills**
 
 
 <p> 
