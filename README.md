@@ -1,6 +1,6 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
 <h1 align="center" >Hi 👋, I'm Kae Strange</h1>
-<h3 align="center">A Second Year student Majoring in Computer Science and Concentrating in AI</h3>
+<h3 align="center">A Computer Science Second Year Concentrating in AI and Game Design</h3>
 
 <h3 align="left" >Languages and Tools:</h3>
 <p align="left"> 
