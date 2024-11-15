@@ -29,8 +29,9 @@
 <p align="left">
   
 <details>
-  <summary align="left"></summary>
-  <p></p>
+  <summary align="left">About Kae</summary>
+  <p>An aspiring engineer of secure software who likes the idea of creating things that bring innovation and inspiration. I'm most interested in programming, and seeing things such as Robots, Games, and apps come to life with movement and intelligence. Though ultimately I want to become familiar with a wide variety of technologies and protect these creations from virtual threats.</p>
+  <p>Why the name change: <br>I want to live my life with meaning so I changed my name to something meaningful to me.</p>
 </details>
 </p>
 
