@@ -23,7 +23,7 @@
 - 👯 looking to collaborate on Projects to grow my skills<br><br>
 </h3>
 
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 
 <p> 
