@@ -1,5 +1,5 @@
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="k3nn8dn" /> </p>
-<h1 align="center" >Hi 👋, I'm Kae Strange</h1>
+<h1><img src="https://github.com/user-attachments/assets/c9b66c56-ce1f-41dc-84bf-ccab80b4f73b" align="center" width="100%" alt="Hi 👋, I'm Kae Strange"></h1>
 <h3 align="center">A Computer Science Second Year Concentrating in AI and Game Design</h3>
 
 
