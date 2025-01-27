@@ -18,7 +18,7 @@
 <p>&nbsp;</p>
 
 <h3>
-- 🌱 currently learning Java and C++<br><br>
+- 🌱 currently learning Python and C++<br><br>
 - 💡 Interested in, app and game development <br><br>
 - 👯 looking to collaborate on Projects to grow my skills<br><br>
 </h3>
