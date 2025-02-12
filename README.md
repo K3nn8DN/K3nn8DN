@@ -33,9 +33,9 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=K3nn8DN&show_icons=true" align="left" width="45%">
 </picture>
 <picture align="right" width="40%">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&show_icons=true&theme=tokyonight" align="left" width="45%" >
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&show_icons=true&theme=vue" align="left" width="45%">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&show_icons=true" align="left" width="45%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&hide=ShaderLab&show_icons=true&langs_count=3&theme=tokyonight" align="left" width="45%" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&hide=ShaderLab&show_icons=true&langs_count=3&theme=vue" align="left" width="45%">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&hide=ShaderLab&langs_count=3&show_icons=true" align="left" width="45%">
 </picture>
 
   &nbsp;
