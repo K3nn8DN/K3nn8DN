@@ -37,8 +37,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&layout=compact&hide=ShaderLab&show_icons=true&langs_count=4&theme=vue" align="left" width="45%">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nn8DN&layout=compact&hide=ShaderLab&langs_count=4&show_icons=true" align="left" width="45%">
 </picture>
-
-  &nbsp;
 </p>
 
 <p>&nbsp;</p> 
