@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects to grow my skills**
 
-- 📫 How to reach me **KendraJanel04@gmail.com**
+- 📫 How to reach me **Kae.Strange@tutanota.com**
 
 
 <h3 align="left" >Languages and Tools:</h3>
