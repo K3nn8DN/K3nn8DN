@@ -22,16 +22,28 @@
 
 <p>&nbsp;</p>
 
+
+
+
+
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=FFFFFF&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript" />
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=FFFFFF&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev" />
-  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=FFFFFF&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=7AA2F7&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=2AC3DE&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=7AA2F7&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=7AA2F7&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=2AC3DE&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=7AA2F7&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=7AA2F7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=2AC3DE&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate">
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=7AA2F7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
+  </picture>
 </p>
-
 <p>&nbsp;</p>   
-
-
-
 <p>
   <picture align="left" width="40%">
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
