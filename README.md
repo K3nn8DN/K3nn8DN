@@ -32,17 +32,17 @@
 
 
 
-<p align="right">
+<p>
   <picture align="left" width="40%">
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
-    <img src="./profile/stats.svg" align="left" width="50%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img src="./profile/stats-light.svg" align="left" width="50%">
   </picture>
 
   <picture align="right" width="40%">
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
-    <img src="./profile/top-langs.svg" align="left" width="45%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img src="./profile/top-langs-light.svg" align="left" width="45%">
   </picture>
 </p>
 
