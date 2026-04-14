@@ -1,7 +1,7 @@
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=views&color=green&style=flat" alt="k3nn8dn" />
-  <a href="https://k3nn8dn.github.io.com"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome&logoColor=white"></a>
+  <a href="https://k3nn8dn.github.io"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome&logoColor=white"></a>
 </p>
 
 
