@@ -1,9 +1,7 @@
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=Profile%20views&color=0e75b6&style=flat" alt="K3nn8dn" />
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&duration=9000&pause=9000&color=4DB986EA&vCenter=true&random=true&width=300&height=20&lines=Visit+My+Website" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=k3nn8dn&label=views&color=green&style=flat" alt="k3nn8dn" />
+  <a href="https://k3nn8dn.github.io.com"><img src="https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome&logoColor=white"></a>
 </p>
 
 
@@ -16,7 +14,6 @@
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p> 
-
 
 
 
