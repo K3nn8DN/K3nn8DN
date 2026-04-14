@@ -6,7 +6,13 @@
 
 
 <h1><img src="https://github.com/user-attachments/assets/c9b66c56-ce1f-41dc-84bf-ccab80b4f73b" align="center" width="100%" alt="Hi 👋, I'm Kae Strange"></h1>
-<p><img src="https://readme-typing-svg.demolab.com?duration=3000&pause=30000&color=FFFFFF&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design" alt="A Computer Science third Year Concentrating in AI and Game Design" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=30000&color=5A8FE8&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=30000&color=2AC3DE&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design">
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=30000&color=7AA2F7&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design" />
+</picture>
+
 
 <p align="center"> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -28,19 +34,19 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=7AA2F7&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=4DB8A8&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=2AC3DE&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=7AA2F7&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=BB9AF7&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=7AA2F7&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=4DB8A8&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=2AC3DE&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=7AA2F7&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=BB9AF7&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=7AA2F7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=4DB8A8&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=2AC3DE&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=7AA2F7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=BB9AF7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
   </picture>
 </p>
 <p>&nbsp;</p>   
