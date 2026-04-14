@@ -6,7 +6,7 @@
 
 
 <h1><img src="https://github.com/user-attachments/assets/c9b66c56-ce1f-41dc-84bf-ccab80b4f73b" align="center" width="100%" alt="Hi 👋, I'm Kae Strange"></h1>
-<p><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=30000&color=FFFFFF&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design" alt="A Computer Science third Year Concentrating in AI and Game Design" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?duration=3000&pause=30000&color=FFFFFF&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design" alt="A Computer Science third Year Concentrating in AI and Game Design" /></p>
 
 <p align="center"> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -22,11 +22,11 @@
 
 <p>&nbsp;</p>
 
-<h3>
-- 🌱 currently learning Three.js and typescript <br><br>
-- 💡 Interested in, app and game development <br><br>
-- 👯 looking to collaborate on Projects to grow my skills<br><br>
-</h3>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3000&pause=99999&color=FFFFFF&width=600&lines=%F0%9F%8C%B1+Learning+Three.js+and+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=3500&pause=99999&delay=3000&color=FFFFFF&width=600&lines=%F0%9F%92%A1+Interested+in+App+and+Game+Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=FFFFFF&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
+</p>
 
 <p>&nbsp;</p>   
 
