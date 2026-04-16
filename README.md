@@ -13,24 +13,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=30000&color=7AA2F7&center=true&vCenter=true&random=true&width=1000&height=20&lines=A+Computer+Science+third+Year+Concentrating+in+AI+and+Game+Design" />
 </picture>
 
+<br>
 
-<p align="center"> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p> 
-
+<p align=center spacing= 80px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="40"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"  height="40"/> 
+</p>
 
 
 <img src="https://github.com/user-attachments/assets/c51f70e6-e6d4-447b-abf5-eb0faac30370" align="right" width="25%">
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-
-
-
+<br><br><br><br>
 
 <p>
   <picture>
@@ -49,7 +46,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=18&duration=4000&pause=99999&delay=6000&color=BB9AF7&width=600&lines=%F0%9F%91%AF+Looking+to+Collaborate" />
   </picture>
 </p>
-<p>&nbsp;</p>   
+<br><br>
 <p>
   <picture align="left" width="40%">
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
@@ -64,10 +61,9 @@
   </picture>
 </p>
 
-<p>&nbsp;</p> 
+
 
 <p align="left">
-
 <details>
   <summary align="left">About Kae</summary>
   <p>An aspiring engineer of secure software who likes the idea of creating things that bring innovation and inspiration. I'm most interested in programming, and seeing things such as Robots, Games, and apps come to life with movement and intelligence. Though ultimately I want to become familiar with a wide variety of technologies and protect these creations from virtual threats.</p>
