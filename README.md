@@ -15,15 +15,7 @@
 
 <br>
 
-<p align=center spacing= 80px>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="40"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"  height="40"/> 
-</p>
+
 
 
 <img src="https://github.com/user-attachments/assets/c51f70e6-e6d4-447b-abf5-eb0faac30370" align="right" width="25%">
